@@ -1,0 +1,28 @@
+---
+title: "Week 10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## How to host a website on github page
+
+1. สร้าง [github account](https://github.com/) จากนั้น loging เข้าระบบ
+
+2. สร้าง new Repositories สำหรับ personel website ให้ตั้งชื่อของ repository ดังนี้ username.github.io 
+
+3. เมื่อสร้างเสร็จจะมี repository สำหรับ publish personal website บน github  เราสามารถทำได้ง่าย ๆ ด้วยการ drag and drop ไฟล์ทั้งหมดลงไป หรือใช้ git ช่วยในการ upload ไฟล์ของ website ดังกล่าว
+
+
+## Creating website using blogdown
+
+
+https://bookdown.org/yihui/blogdown/
+
+https://gohugo.io/ 
+
+
+## Deploy blogdown website on Netlify
